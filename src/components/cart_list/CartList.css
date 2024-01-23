@@ -1,0 +1,18 @@
+.cats {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 1em;
+}
+
+.cats-row {
+    display: flex;
+    flex-direction: row;
+    gap: 1em;
+}
+
+img {
+    width: 200px;
+    height: 150px;
+    border-radius: 10px;
+}
